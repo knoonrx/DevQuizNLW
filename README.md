@@ -13,7 +13,7 @@ Esse é um evento feito para quem já programa e domina os fundamentos do desenv
 # Esse projeto
 ## DevQuiz
 
-O projeto DevQuiz foi proposto pela @Rocketseat com o objetivo de levar o conhecimento técnico do desenvolvedor Flutter à um Novo Nível (NLW - Next Level Week). 
+O projeto DevQuiz foi proposto pela [@GabulDev,](https://www.linkedin.com/in/gabuldev/) e a [@Rocketseat](https://rocketseat.com.br/) com o objetivo de levar o conhecimento técnico do desenvolvedor Flutter à um Novo Nível (NLW - Next Level Week). 
 Para isso é preciso transformar um template criado no Figma em um app de Quiz - Perguntas e respostas voltados a desenvolvedores.
 
 ![Print do figma](https://github.com/knoonrx/nlw_aula01/blob/master/assets/images/figma.png)
