@@ -10,8 +10,11 @@ Mas é importante ficar atento aos requisitos e não pular etapas.
 
 Esse é um evento feito para quem já programa e domina os fundamentos do desenvolvimento web. Se você está iniciando em programação, comece por aqui.
 
-# Esse projeto
-## DevQuiz
+# Sobre o DevQuiz
+
+A ideia é que o usuário pudesse responder as perguntas relacionadas a esse framework incrível e ao final das perguntas saber a pontuação e a taxa de acerto.
+
+![DevQuiz GIF](https://github.com/knoonrx/DevQuizNLW/blob/master/dev_quiz_nlw5_flutter_2021.gif)
 
 O projeto DevQuiz foi proposto pela [@GabulDev,](https://www.linkedin.com/in/gabuldev/) e a [@Rocketseat](https://rocketseat.com.br/) com o objetivo de levar o conhecimento técnico do desenvolvedor Flutter à um Novo Nível (NLW - Next Level Week). 
 Para isso é preciso transformar um template criado no Figma em um app de Quiz - Perguntas e respostas voltados a desenvolvedores.
